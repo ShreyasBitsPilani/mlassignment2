@@ -95,6 +95,13 @@ project-folder/
 │-- app.py
 │-- requirements.txt
 │-- README.md
+│-- model/
+│ │-- logistic.py
+│ │-- decision_tree.py
+│ │-- knn.py
+│ │-- naive_bayes.py
+│ │-- random_forest.py
+│ │-- xgboost_model.py
 ```
 
 ---
